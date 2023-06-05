@@ -3,7 +3,7 @@ entries:
   client-test-helm:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-06-03T15:21:29.067757-07:00"
+    created: "2023-06-05T11:01:28.848436-07:00"
     description: A Helm chart for Kubernetes
     digest: c4edabcec3580e0557f00567cb3ea7018f3d11bf705a77b825c0b00060340436
     name: client-test-helm
@@ -13,7 +13,7 @@ entries:
     version: 0.3.0
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-06-03T15:21:29.063501-07:00"
+    created: "2023-06-05T11:01:28.844524-07:00"
     description: A Helm chart for Kubernetes
     digest: 980625cc6b668586d4d56b693effb1b883ce9505f3f1f52a0d2d3ec629017e0a
     name: client-test-helm
@@ -23,7 +23,7 @@ entries:
     version: 0.2.0
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-06-03T15:21:29.062117-07:00"
+    created: "2023-06-05T11:01:28.843103-07:00"
     description: A Helm chart for Kubernetes
     digest: 759bbc418cb92507f8b2e937f4b96e397c994e458b68980bb4e7d3c4f940037c
     name: client-test-helm
@@ -34,12 +34,12 @@ entries:
   demo-otel:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-06-03T15:21:29.068161-07:00"
+    created: "2023-06-05T11:01:28.84888-07:00"
     description: A Helm chart for Kubernetes
-    digest: fd03ce26f7003bc60e47caee5fc0b17a984cd70eb9115cedd767b52a1404f800
+    digest: e8b58d268e703a338311ed4b1a4afda8f902ea5575e31f96486021357ac79993
     name: demo-otel
     type: application
     urls:
     - https://phanidevavarapu.github.io/helm-repo/demo-otel/demo-otel-0.1.0.tgz
     version: 0.1.0
-generated: "2023-06-03T15:21:29.058294-07:00"
+generated: "2023-06-05T11:01:28.839791-07:00"
